@@ -7,6 +7,10 @@ With pip:
 
 Alternatively, you can install locally by cloning this repository and, once again, using pip:
 - Install for current user
-'''pip install'''
+'''
+pip install
+'''
 - Install for everyone on the system
-'''pip install -e'''
+'''
+pip install -e
+'''
