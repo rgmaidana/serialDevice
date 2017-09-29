@@ -10,9 +10,9 @@ pip install serialDevice
 Alternatively, you can install locally by cloning this repository and, once again, using pip:
 - Install for current user
 ```
-pip install
+pip install <path to cloned repo>
 ```
 - Install for everyone on the system
 ```
-pip install -e
+pip install -e <path to cloned repo>
 ```
